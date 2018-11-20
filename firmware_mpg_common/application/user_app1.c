@@ -95,7 +95,8 @@ Promises:
 */
 void UserApp1Initialize(void)
 {
-  u8 au8WelcomeMessage[] = "ANT Master";
+  //u8 au8WelcomeMessage[] = "ANT Master";
+    u8 au8WelcomeMessage[] = "Assignment_HRM"
 
   /* Write a weclome message on the LCD */
 #if EIE1
